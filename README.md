@@ -66,6 +66,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
+- [Chain.Love](https://www.chain.love/) - Open-source Web3 security and infrastructure directory indexing smart contract audit firms, static analyzers, formal verification tools, bug bounty platforms, and RPC providers across 50+ blockchain networks
 - [Web3sec.news](https://web3sec.news)
 
 
